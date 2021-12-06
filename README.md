@@ -1,4 +1,3 @@
-# Recap-ahoerack03
 Project description:
 This project serves as a coding exercise to get back into the flow.
 
